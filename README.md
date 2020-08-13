@@ -2,8 +2,7 @@
 
 Meu nome é Luis Antonio de Souza Silva, tenho 17 anos e sou de SC. Estou no último ano do curso técnico em Informática integrado ao ensino médio, pelo Instituto Federal Catarinense. Estudo programação há 3 anos. 🖥️
 
-Sou apaixonado por esse mundo do desenvolvimento. Atualmente estudo e trabalho com React, React-Native e NodeJS. (entusiasta JS, caso não tenha percebido)
-
+Sou apaixonado por esse mundo de desenvolvimento de softwares. Atualmente estudo e trabalho com React, React-Native e NodeJS. (entusiasta JS, caso não tenha percebido)
 
 Você me encontra nas seguintes redes sociais: 
 
