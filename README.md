@@ -1,6 +1,6 @@
 # Olá, dev! ✌
 
-Meu nome é Luis Antonio de Souza Silva, tenho 18 anos e sou de SC. Técnico em informática (IFC) e estudante de Sistemas para Internet (IFC).
+Meu nome é Luis Antonio de Souza Silva, tenho 20 anos e sou de SC. Técnico em informática (IFC) e estudante de Sistemas para Internet (IFC). Sou apaixonado por desenvolvimento Frontend, trabalho na área há quase 3 anos, sempre atuando com ReactJS.
 
 Você me encontra nas seguintes redes sociais: 
 
